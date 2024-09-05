@@ -1,5 +1,4 @@
-# Publishing-in-teams!
-# ![Uploading UnigridDecentralizationGIF (2).gif…]()
+# Publishing-in-teams![Uploading UnigridDecentralizationGIF (2).gif…]()
 
 Capstone project: Enhancing sustainability towards supply chain decarbonization
 
